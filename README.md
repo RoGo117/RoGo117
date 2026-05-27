@@ -163,8 +163,6 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 ---
 
-## 🎓 Formación
-
 <div align="center">
 
 <img src="./assets/education_wired.svg" alt="Formación de Rodrigo Moreno Bielsa" width="100%" />
@@ -172,8 +170,6 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 </div>
 
 ---
-
-## 🏅 Certificaciones
 
 <div align="center">
 
@@ -213,7 +209,7 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 <img src="https://img.shields.io/badge/LINKEDIN-RODRIGO%20MORENO%20BIELSA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br><br>
+
 
 <a href="https://github.com/RoGo117">
 <img src="https://img.shields.io/badge/GITHUB-ROGO117-181717?style=for-the-badge&logo=github&logoColor=white" />
