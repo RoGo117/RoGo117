@@ -1,0 +1,46 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Proyectos destacados de Rodrigo Moreno Bielsa">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="20%" r="90%">
+      <stop offset="0%" stop-color="#06283f"/>
+      <stop offset="60%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .t{font-family:'Courier New',Consolas,monospace}
+      .h{fill:#7dd3fc;filter:url(#glow);font-weight:bold}
+      .w{fill:#e0f2fe}
+      .m{fill:#9bd5ef}
+      .card{fill:#06121f;stroke:#164e63;stroke-width:2}
+      .tag{fill:#082f49;stroke:#38bdf8;stroke-width:1}
+    </style>
+  </defs>
+  <rect width="1200" height="760" rx="28" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1120" height="680" rx="22" fill="#020617" opacity=".7" stroke="#164e63" stroke-width="2"/>
+
+  <text x="70" y="95" class="t h" font-size="31">$ ls ./featured_projects</text>
+
+  <rect x="70" y="135" width="1060" height="155" rx="16" class="card"/>
+  <text x="100" y="182" class="t h" font-size="25">🚗 Calculadora de emisiones de CO₂</text>
+  <text x="100" y="222" class="t w" font-size="20">Proyecto de Machine Learning aplicado a sostenibilidad para estimar emisiones de vehículos.</text>
+  <rect x="100" y="245" width="92" height="28" rx="14" class="tag"/><text x="117" y="265" class="t m" font-size="16">Python</text>
+  <rect x="205" y="245" width="92" height="28" rx="14" class="tag"/><text x="224" y="265" class="t m" font-size="16">pandas</text>
+  <rect x="310" y="245" width="125" height="28" rx="14" class="tag"/><text x="326" y="265" class="t m" font-size="16">scikit-learn</text>
+  <rect x="448" y="245" width="108" height="28" rx="14" class="tag"/><text x="463" y="265" class="t m" font-size="16">Streamlit</text>
+
+  <rect x="70" y="325" width="1060" height="155" rx="16" class="card"/>
+  <text x="100" y="372" class="t h" font-size="25">🗄️ Aplicación web con base de datos</text>
+  <text x="100" y="412" class="t w" font-size="20">Aplicación web con CRUD, conexión a MySQL y estructura preparada para contenedores.</text>
+  <rect x="100" y="435" width="85" height="28" rx="14" class="tag"/><text x="120" y="455" class="t m" font-size="16">Flask</text>
+  <rect x="198" y="435" width="86" height="28" rx="14" class="tag"/><text x="217" y="455" class="t m" font-size="16">MySQL</text>
+  <rect x="297" y="435" width="88" height="28" rx="14" class="tag"/><text x="314" y="455" class="t m" font-size="16">Docker</text>
+  <rect x="398" y="435" width="98" height="28" rx="14" class="tag"/><text x="416" y="455" class="t m" font-size="16">Python</text>
+
+  <rect x="70" y="515" width="1060" height="155" rx="16" class="card"/>
+  <text x="100" y="562" class="t h" font-size="25">📊 Análisis de datos e IA</text>
+  <text x="100" y="602" class="t w" font-size="20">Limpieza, visualización de datos y entrenamiento de modelos de clasificación/regresión.</text>
+  <rect x="100" y="625" width="92" height="28" rx="14" class="tag"/><text x="117" y="645" class="t m" font-size="16">Jupyter</text>
+  <rect x="205" y="625" width="95" height="28" rx="14" class="tag"/><text x="222" y="645" class="t m" font-size="16">NumPy</text>
+  <rect x="313" y="625" width="98" height="28" rx="14" class="tag"/><text x="332" y="645" class="t m" font-size="16">Power BI</text>
+  <rect x="424" y="625" width="140" height="28" rx="14" class="tag"/><text x="443" y="645" class="t m" font-size="16">Machine Learning</text>
+</svg>

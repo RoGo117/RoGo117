@@ -1,0 +1,55 @@
+<svg width="1200" height="860" viewBox="0 0 1200 860" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Información profesional Rodrigo Moreno Bielsa">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="0%" r="100%">
+      <stop offset="0%" stop-color="#082f49"/>
+      <stop offset="55%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="scan" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="1" fill="#fff" opacity=".045"/><rect y="2.5" width="5" height="1" fill="#000" opacity=".22"/></pattern>
+    <style>
+      .t{font-family:'Courier New',Consolas,monospace}
+      .h{fill:#7dd3fc;filter:url(#glow);font-weight:bold}
+      .w{fill:#e0f2fe}
+      .m{fill:#9bd5ef}
+      .d{fill:#5fa3c7}
+      .card{fill:#06121f;stroke:#164e63;stroke-width:2}
+      .mini{fill:#08283d;stroke:#1f6f91;stroke-width:1}
+      .bullet{fill:#7dd3fc;filter:url(#glow)}
+    </style>
+  </defs>
+  <rect width="1200" height="860" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="860" rx="28" fill="url(#scan)"/>
+
+  <text x="56" y="72" class="t h" font-size="30">$ cat about_rodrigo.md</text>
+  <rect x="56" y="100" width="1088" height="175" rx="16" class="card"/>
+  <text x="86" y="150" class="t h" font-size="25">👾 Sobre mí</text>
+  <text x="86" y="195" class="t w" font-size="22">Desarrollador Full Stack Junior con formación en Desarrollo de Aplicaciones Web,</text>
+  <text x="86" y="228" class="t w" font-size="22">Sistemas Microinformáticos y Redes, y Big Data e Inteligencia Artificial.</text>
+  <text x="86" y="258" class="t m" font-size="20">Interés en desarrollo web, bases de datos, análisis de datos, automatización e IA aplicada.</text>
+
+  <text x="56" y="330" class="t h" font-size="30">$ ./load_focus.sh</text>
+  <rect x="56" y="360" width="342" height="190" rx="16" class="card"/>
+  <rect x="429" y="360" width="342" height="190" rx="16" class="card"/>
+  <rect x="802" y="360" width="342" height="190" rx="16" class="card"/>
+  <text x="86" y="410" class="t h" font-size="24">🌐 Full Stack</text>
+  <circle cx="91" cy="448" r="5" class="bullet"/><text x="110" y="455" class="t w" font-size="19">HTML, CSS, JavaScript, React</text>
+  <circle cx="91" cy="485" r="5" class="bullet"/><text x="110" y="492" class="t w" font-size="19">PHP, Java, Node</text>
+  <circle cx="91" cy="522" r="5" class="bullet"/><text x="110" y="529" class="t w" font-size="19">SQL, MySQL</text>
+
+  <text x="459" y="410" class="t h" font-size="24">📊 Big Data &amp; IA</text>
+  <circle cx="464" cy="448" r="5" class="bullet"/><text x="483" y="455" class="t w" font-size="19">Python, pandas, NumPy</text>
+  <circle cx="464" cy="485" r="5" class="bullet"/><text x="483" y="492" class="t w" font-size="19">scikit-learn, Machine Learning</text>
+  <circle cx="464" cy="522" r="5" class="bullet"/><text x="483" y="529" class="t w" font-size="19">Jupyter, Streamlit, Power BI</text>
+
+  <text x="832" y="410" class="t h" font-size="24">🛠️ Sistemas</text>
+  <circle cx="837" cy="448" r="5" class="bullet"/><text x="856" y="455" class="t w" font-size="19">Windows, Linux, redes</text>
+  <circle cx="837" cy="485" r="5" class="bullet"/><text x="856" y="492" class="t w" font-size="19">Bash, PowerShell</text>
+  <circle cx="837" cy="522" r="5" class="bullet"/><text x="856" y="529" class="t w" font-size="19">Soporte y documentación</text>
+
+  <text x="56" y="610" class="t h" font-size="30">$ tail -f education.log</text>
+  <rect x="56" y="640" width="1088" height="160" rx="16" class="card"/>
+  <text x="86" y="685" class="t w" font-size="21">2025-2026  Curso de Especialización en Big Data e Inteligencia Artificial</text>
+  <text x="86" y="722" class="t m" font-size="20">2023-2025  CFGS - Desarrollo de Aplicaciones Web</text>
+  <text x="86" y="759" class="t m" font-size="20">2021-2023  CFGM - Sistemas Microinformáticos y Redes</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mensaje final terminal">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#010409"/>
+      <stop offset="50%" stop-color="#082f49"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.t{font-family:'Courier New',Consolas,monospace}.h{fill:#7dd3fc;filter:url(#glow);font-weight:bold}.w{fill:#e0f2fe}.blink{animation:blink .8s steps(1) infinite}@keyframes blink{50%{opacity:0}}</style>
+  </defs>
+  <rect width="1200" height="220" rx="28" fill="url(#bg)"/>
+  <text x="70" y="80" class="t h" font-size="28">$ contact --professional</text>
+  <text x="70" y="130" class="t w" font-size="24">LinkedIn: rodrigo-moreno-bielsa  |  GitHub: RoGo117</text>
+  <text x="70" y="175" class="t h" font-size="24">Siempre aprendiendo, construyendo y mejorando</text>
+  <rect x="690" y="154" width="14" height="27" class="h blink"/>
+</svg>

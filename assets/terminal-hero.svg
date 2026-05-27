@@ -1,0 +1,80 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Perfil terminal retro de Rodrigo Moreno Bielsa">
+  <defs>
+    <radialGradient id="rad" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#0b2a44"/>
+      <stop offset="45%" stop-color="#06101f"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="1.2" fill="#ffffff" opacity=".06"/>
+      <rect y="3" width="6" height="1" fill="#000000" opacity=".34"/>
+    </pattern>
+    <style>
+      .term{font-family:'Courier New',Consolas,monospace}
+      .cyan{fill:#7dd3fc;filter:url(#glow)}
+      .white{fill:#dff6ff}
+      .muted{fill:#8bc7e6}
+      .dim{fill:#5d9fbe}
+      .type1{opacity:0;animation:a 9s infinite}
+      .type2{opacity:0;animation:b 9s infinite}
+      .type3{opacity:0;animation:c 9s infinite}
+      .type4{opacity:0;animation:d 9s infinite}
+      .pulse{animation:p 2s infinite}
+      .blink{animation:blink .8s steps(1) infinite}
+      .float{animation:float 5s ease-in-out infinite}
+      @keyframes a{0%,5%{opacity:0}8%,100%{opacity:1}}
+      @keyframes b{0%,20%{opacity:0}23%,100%{opacity:1}}
+      @keyframes c{0%,37%{opacity:0}40%,100%{opacity:1}}
+      @keyframes d{0%,55%{opacity:0}58%,100%{opacity:1}}
+      @keyframes blink{50%{opacity:0}}
+      @keyframes p{0%,100%{opacity:.55}50%{opacity:1}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="520" rx="28" fill="url(#rad)"/>
+  <rect width="1200" height="520" rx="28" fill="url(#scan)"/>
+  <rect x="26" y="26" width="1148" height="468" rx="20" fill="#020617" opacity=".74" stroke="#164e63" stroke-width="2"/>
+  <rect x="26" y="26" width="1148" height="58" rx="20" fill="#06121f"/>
+  <circle cx="62" cy="55" r="7" fill="#7dd3fc"/>
+  <circle cx="88" cy="55" r="7" fill="#38bdf8" opacity=".7"/>
+  <circle cx="114" cy="55" r="7" fill="#bae6fd" opacity=".45"/>
+  <text x="145" y="61" class="term dim" font-size="18">wired-os://home/RoGo117/profile.boot</text>
+
+  <rect x="70" y="125" width="660" height="2" fill="url(#line)" opacity=".65"/>
+  <text x="70" y="115" class="term cyan" font-size="24">WIRED_OS v3.07 --- Initializing neural interface...</text>
+  <text x="70" y="158" class="term muted" font-size="22">Link status: STABLE     login: rodrigo_moreno_bielsa</text>
+  <text x="70" y="198" class="term white" font-size="22">password: ********     Authenticating...</text>
+
+  <text x="70" y="272" class="term cyan type1" font-size="28">$ whoami</text>
+  <text x="245" y="272" class="term white type1" font-size="28">Rodrigo Moreno Bielsa</text>
+
+  <text x="70" y="322" class="term cyan type2" font-size="28">$ role</text>
+  <text x="245" y="322" class="term white type2" font-size="28">Full Stack Junior · Big Data &amp; IA · Sistemas</text>
+
+  <text x="70" y="372" class="term cyan type3" font-size="28">$ stack</text>
+  <text x="245" y="372" class="term white type3" font-size="28">React · Java · PHP · SQL · Python · Machine Learning</text>
+
+  <text x="70" y="422" class="term cyan type4" font-size="28">$ status</text>
+  <text x="245" y="422" class="term white type4" font-size="28">Learning, building, improving</text>
+  <rect x="755" y="398" width="15" height="30" class="cyan blink"/>
+
+  <g class="float" opacity=".85">
+    <path d="M850 125 L1055 125 L1110 375 L795 375 Z" fill="#031525" stroke="#38bdf8" stroke-width="2"/>
+    <path d="M880 165H1025M870 205H1045M860 245H1060M850 285H1075M840 325H1090" stroke="#7dd3fc" stroke-width="2" opacity=".35"/>
+    <circle cx="1035" cy="170" r="8" fill="#7dd3fc" class="pulse"/>
+    <text x="850" y="430" class="term dim" font-size="18">RETRO TERMINAL MODE: ON</text>
+  </g>
+</svg>
