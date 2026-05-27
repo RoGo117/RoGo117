@@ -1,0 +1,47 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rodrigo Moreno Bielsa - Full Stack Junior, Big Data e IA, Técnico en Sistemas">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.22"/>
+      <stop offset="58%" stop-color="#0f172a" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.18"/>
+    </radialGradient>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="1" fill="#ffffff" opacity="0.045"/>
+      <rect y="3" width="6" height="1" fill="#000000" opacity="0.22"/>
+    </pattern>
+    <style>
+      .mono{font-family:'Courier New',Consolas,monospace}
+      .name{font-family:'Segoe UI',Arial,sans-serif;font-weight:800;letter-spacing:1px}
+      .blue{fill:#7dd3fc;filter:url(#softglow)}
+      .white{fill:#e0f2fe}
+      .muted{fill:#bfdbfe}
+      .line{stroke:#7dd3fc;stroke-width:2;opacity:.7}
+      .blink{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1200" height="220" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="220" fill="url(#scan)"/>
+  <rect width="1200" height="220" fill="url(#glow)"/>
+  <path d="M0 184 C190 222 310 132 500 172 C740 224 870 132 1200 188 L1200 220 L0 220 Z" fill="#020617" opacity=".56"/>
+  <path d="M0 182 C190 220 310 130 500 170 C740 222 870 130 1200 186" class="line"/>
+  <text x="70" y="58" class="mono blue" font-size="18">WIRED_PROFILE://RoGo117</text>
+  <text x="70" y="112" class="name white" font-size="48">Rodrigo Moreno Bielsa</text>
+  <text x="72" y="148" class="mono muted" font-size="22">Full Stack Junior · Big Data &amp; IA · Técnico en Sistemas</text>
+  <text x="72" y="184" class="mono blue" font-size="20">&gt; learning · building · improving</text>
+  <rect x="418" y="167" width="12" height="22" class="blue blink"/>
+  <circle cx="1052" cy="82" r="46" fill="#0f172a" opacity=".65" stroke="#7dd3fc" stroke-width="2"/>
+  <text x="1015" y="94" class="name blue" font-size="30">RMB</text>
+</svg>

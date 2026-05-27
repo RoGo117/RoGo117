@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:2563eb&height=185&section=header&text=Rodrigo%20Moreno%20Bielsa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Junior%20%7C%20Big%20Data%20%26%20IA%20%7C%20T%C3%A9cnico%20en%20Sistemas&descAlignY=58&descSize=17" />
+<img src="./assets/header_wired.svg" alt="Rodrigo Moreno Bielsa - Full Stack Junior, Big Data e IA, Técnico en Sistemas" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=760&lines=%3E+Inicializando+perfil...;%3E+Desarrollo+Web+Full+Stack;%3E+Big+Data+e+Inteligencia+Artificial;%3E+Bases+de+Datos+y+An%C3%A1lisis+de+Datos;%3E+Soporte+T%C3%A9cnico+y+Sistemas" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=760&lines=Desarrollo+Web+Full+Stack;Big+Data+e+Inteligencia+Artificial;Bases+de+Datos+y+An%C3%A1lisis+de+Datos;Soporte+T%C3%A9cnico+y+Sistemas;Perseverando+hasta+cumplir" />
 
 <br>
 
@@ -20,32 +22,18 @@
 
 ## 🎭 Sobre mí
 
-Soy desarrollador **Full Stack Junior** con formación en **Desarrollo de Aplicaciones Web**, **Sistemas Microinformáticos y Redes** y **Big Data e Inteligencia Artificial**.
+Soy desarrollador Full Stack Junior con formación en **Desarrollo de Aplicaciones Web**, **Sistemas Microinformáticos y Redes** y **Big Data e Inteligencia Artificial**.
 
-Me interesa crear soluciones útiles combinando **desarrollo web**, **bases de datos**, **análisis de datos** e **inteligencia artificial**. También tengo experiencia en **soporte técnico**, **documentación**, **resolución de incidencias** y trabajo en entornos profesionales.
-
-```txt
-┌─[rodrigo@github]─[~/profile]
-└──╼ $ status
-
-Perfil: Full Stack Junior · Big Data e IA · Sistemas
-Objetivo: aprender, crear y mejorar proyectos reales
-Stack principal: Web · Datos · IA · Soporte técnico
-```
+Me interesa crear soluciones útiles combinando desarrollo web, bases de datos, análisis de datos e inteligencia artificial. También tengo experiencia en soporte técnico, documentación, resolución de incidencias y trabajo en entornos profesionales.
 
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img width="320" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<img src="./assets/wired_lain.gif" alt="Wired aesthetic animation" width="330" />
 
 <br>
 
-```txt
-WIRED_OS v3.07
-LINK STATUS: STABLE
-USER: RoGo117
-MODE: BUILDING
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2100&pause=700&color=7DD3FC&center=true&vCenter=true&width=330&lines=WIRED+OS+v3.07;LINK+STATUS%3A+STABLE;USER%3A+RoGo117;MODE%3A+BUILDING;DATA+%2B+WEB+%2B+SYSTEMS" />
 
 </td>
 </tr>
@@ -63,7 +51,7 @@ MODE: BUILDING
 
 HTML, CSS, JavaScript, React, PHP, Java, Node y bases de datos SQL.
 
-`Frontend` `Backend` `APIs` `CRUD` `MySQL`
+`Frontend` `Backend` `CRUD` `MySQL`
 
 </td>
 <td width="33%" valign="top">
@@ -72,7 +60,7 @@ HTML, CSS, JavaScript, React, PHP, Java, Node y bases de datos SQL.
 
 Python, pandas, NumPy, scikit-learn, Jupyter Notebook, Power BI y Streamlit.
 
-`Data` `ML` `Regresión` `Clasificación` `Visualización`
+`Data` `Machine Learning` `Clasificación` `Regresión`
 
 </td>
 <td width="33%" valign="top">
@@ -123,9 +111,9 @@ Soporte técnico, redes, usuarios, permisos, documentación y resolución de inc
 <tr>
 <td width="33%" valign="top">
 
-### 🚗 CO₂ Emissions ML
+### 🚗 Calculadora de emisiones de CO₂
 
-Proyecto de **Machine Learning aplicado a sostenibilidad**.  
+Proyecto de Machine Learning aplicado a sostenibilidad.  
 Modelo de regresión para estimar emisiones de CO₂ de vehículos usando datos técnicos.
 
 **Tecnologías:**  
@@ -134,9 +122,9 @@ Modelo de regresión para estimar emisiones de CO₂ de vehículos usando datos 
 </td>
 <td width="33%" valign="top">
 
-### 🗄️ Web + Base de datos
+### 🗄️ Aplicación web con base de datos
 
-Aplicación web con operaciones **CRUD**, conexión a **MySQL** y despliegue preparado para contenedores.
+Aplicación web con operaciones CRUD, conexión a MySQL y despliegue preparado para contenedores.
 
 **Tecnologías:**  
 `Flask` `MySQL` `Docker` `HTML` `CSS` `Python`
@@ -144,12 +132,12 @@ Aplicación web con operaciones **CRUD**, conexión a **MySQL** y despliegue pre
 </td>
 <td width="33%" valign="top">
 
-### 📊 Datos e IA
+### 📊 Análisis de datos y modelos de IA
 
 Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de datos y modelos de clasificación/regresión.
 
 **Tecnologías:**  
-`Python` `NumPy` `Jupyter` `Power BI` `Machine Learning`
+`Python` `pandas` `NumPy` `scikit-learn` `Jupyter` `Power BI`
 
 </td>
 </tr>
@@ -158,11 +146,6 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 ---
 
 ## 🎓 Formación
-
-```txt
-┌─[education@github]─[~/training]
-└──╼ $ cat formacion.txt
-```
 
 - **Curso de Especialización en Big Data e Inteligencia Artificial**  
   IES Maestre de Calatrava
@@ -179,16 +162,6 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 - AWS Academy Graduate - Cloud Foundations
 - AWS Academy Graduate - Machine Learning Foundations
-
----
-
-## 🏆 Logros de GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RoGo117&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,PullRequest,Followers" />
-
-</div>
 
 ---
 
@@ -232,10 +205,9 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 <div align="center">
 
-```txt
-SYSTEM MESSAGE:
-Perseverando hasta cumplir.
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Perseverando+hasta+cumplir;Siempre+aprendiendo;Siempre+construyendo;Siempre+mejorando" />
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f172a,100:020617&height=120&section=footer" />
 
