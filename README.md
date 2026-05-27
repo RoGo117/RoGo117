@@ -40,19 +40,19 @@ Me interesa especialmente el diseño web, crear soluciones útiles combinando he
 
 ## 🎭 Enfoque profesional
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 Desarrollo Web
 
 `Frontend` `Backend` `APIs REST`  
 `HTML / CSS` `JavaScript` `React`  
 `PHP` `Java` `Node`  
-`CRUD` `Git` `SQL` `MySQL` 
+`CRUD` `Git` `SQL` `MySQL`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔬 Big Data e IA
 
@@ -66,7 +66,7 @@ Me interesa especialmente el diseño web, crear soluciones útiles combinando he
 </tr>
 
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ☁️ Cloud y DevOps
 
@@ -78,7 +78,7 @@ Me interesa especialmente el diseño web, crear soluciones útiles combinando he
 `Despliegue de aplicaciones`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🛠️ Sistemas y soporte
 
@@ -205,16 +205,18 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 ---
 
-## 🤝 Contacto
+## 🚹 Contacto
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rodrigo-moreno-bielsa/">
-<img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Moreno%20Bielsa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-RODRIGO%20MORENO%20BIELSA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/RoGo117">
-<img src="https://img.shields.io/badge/GitHub-RoGo117-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-ROGO117-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
