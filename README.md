@@ -42,6 +42,19 @@ Me interesa especialmente el diseño web, crear soluciones útiles combinando he
 
 <table width="100%">
 <tr>
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/wired_data_pulse.gif" alt="Wired data pulse animation" width="330" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=7DD3FC&center=true&vCenter=true&width=330&lines=DATA+STREAM+ONLINE;WEB+%2B+DATA+%2B+SYSTEMS;MACHINE+LEARNING+MODE;BUILDING+PROFILE..." />
+
+</td>
+<td width="65%" valign="top">
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
 ### 🌐 Desarrollo Web
@@ -88,6 +101,10 @@ Me interesa especialmente el diseño web, crear soluciones útiles combinando he
 `Windows` `Linux`  
 `TCP/IP` `Redes LAN`  
 `Gestión de usuarios y permisos`
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -179,13 +196,41 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 ---
 
-## 📈 GitHub Stats
+## 🖥️ Wired Lab
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RoGo117&show_icons=true&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=60A5FA" />
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoGo117&layout=compact&theme=tokyonight&hide_border=true&title_color=60A5FA" />
+<img src="./assets/wired_eye_orbit.gif" alt="Wired eye orbit animation" width="300" />
+
+**Interface / Visual Layer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2300&pause=700&color=7DD3FC&center=true&vCenter=true&width=300&lines=VISUAL+LAYER+ACTIVE;UI+%2B+DESIGN+MODE;RETRO+SIGNAL+STABLE" />
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="./assets/wired_terminal_boot.gif" alt="Wired terminal boot animation" width="300" />
+
+**Boot / Development Layer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2300&pause=700&color=7DD3FC&center=true&vCenter=true&width=300&lines=BOOTING+PROJECTS;CODE+SESSION+READY;BUILD+PROCESS+ONLINE" />
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="./assets/wired_network_nodes.gif" alt="Wired network nodes animation" width="300" />
+
+**Network / Systems Layer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2300&pause=700&color=7DD3FC&center=true&vCenter=true&width=300&lines=NETWORK+MAP+ONLINE;SYSTEMS+LINK+STABLE;PACKETS+FLOWING" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -209,7 +254,7 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 <img src="https://img.shields.io/badge/LINKEDIN-RODRIGO%20MORENO%20BIELSA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
+<br>
 
 <a href="https://github.com/RoGo117">
 <img src="https://img.shields.io/badge/GITHUB-ROGO117-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -221,7 +266,7 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Perseverando+hasta+cumplir;...;No+paramos+ni+por+frio,+mucho+menos+por+calor;...;Wired+funcional;...;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Perseverando+hasta+cumplir;...;No+paramos+ni+por+frio,+mucho+menos+por+calor;...;Wired+funcional;...;Have+a+problem+Have+a+problem+Have+a+problem+..." />
 
 <br>
 
