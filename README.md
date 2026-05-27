@@ -52,6 +52,12 @@ Me interesa especialmente el diseño web, crear soluciones útiles combinando he
 <img src="https://img.shields.io/badge/GITHUB-ROGO117-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br>
+
+<a href="mailto:rodrigoclases117@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-RODRIGOCLASES117%40GMAIL.COM-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 ---
@@ -267,7 +273,7 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Perseverando+hasta+cumplir;...;No+paramos+ni+por+frio,+mucho+menos+por+calor;...;Wired+funcional;...;Have+a+problem+Have+a+problem+Have+a+problem+..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Perseverando+hasta+cumplir;...;No+paramos+ni+por+frio,+mucho+menos+por+calor;...;Wired+funcional;...;Have+a+problem+Have+a+problem+Have+a+problem;Build+a+solution;...;Stay+connected+to+the+Wired" />
 
 <br>
 
