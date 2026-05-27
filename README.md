@@ -38,6 +38,24 @@ Me interesa especialmente el diseño web, crear soluciones útiles combinando he
 
 ---
 
+## 🚹 Contacto
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rodrigo-moreno-bielsa/">
+<img src="https://img.shields.io/badge/LINKEDIN-RODRIGO%20MORENO%20BIELSA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://github.com/RoGo117">
+<img src="https://img.shields.io/badge/GITHUB-ROGO117-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 ## 🎭 Enfoque profesional
 
 <table width="100%">
@@ -140,13 +158,13 @@ Me interesa especialmente el diseño web, crear soluciones útiles combinando he
 
 ---
 
-## 📌 Proyectos destacados
+## 📥 Proyectos destacados
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🚗 Calculadora de emisiones de CO₂
+### 📠 Calculadora de emisiones de CO₂
 
 Proyecto de Machine Learning aplicado a sostenibilidad.  
 Modelo de regresión para estimar emisiones de CO₂ de vehículos usando datos técnicos.
@@ -157,7 +175,7 @@ Modelo de regresión para estimar emisiones de CO₂ de vehículos usando datos 
 </td>
 <td width="33%" valign="top">
 
-### 🗄️ Aplicación web con base de datos
+### 💻 Aplicación web con base de datos
 
 Aplicación web con operaciones CRUD, conexión a MySQL y despliegue preparado para contenedores.
 
@@ -244,23 +262,6 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 </div>
 
----
-
-## 🚹 Contacto
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rodrigo-moreno-bielsa/">
-<img src="https://img.shields.io/badge/LINKEDIN-RODRIGO%20MORENO%20BIELSA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br>
-
-<a href="https://github.com/RoGo117">
-<img src="https://img.shields.io/badge/GITHUB-ROGO117-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
