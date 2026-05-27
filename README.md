@@ -1,43 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Rodrigo%20Moreno%20Bielsa&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="./assets/terminal.svg" alt="Terminal retro azul de Rodrigo Moreno Bielsa" width="100%" />
 
-### Desarrollador Full Stack Junior | Big Data e IA | Técnico en Sistemas
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Desarrollo+Web+Full+Stack;Big+Data+e+Inteligencia+Artificial;Bases+de+Datos+y+An%C3%A1lisis+de+Datos;Soporte+T%C3%A9cnico+y+Sistemas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=900&lines=Desarrollador+Full+Stack+Junior;Big+Data+e+Inteligencia+Artificial;Sistemas%2C+soporte+t%C3%A9cnico+y+bases+de+datos;Siempre+aprendiendo%2C+construyendo+y+mejorando" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎭 Sobre mí
+```terminal
+┌─[rodrigo@github]─[~/profile]
+└──╼ $ cat about_me.txt
+```
 
-Soy desarrollador Full Stack Junior con formación en **Desarrollo de Aplicaciones Web**, **Sistemas Microinformáticos y Redes** y **Big Data e Inteligencia Artificial**.
+## 👾 Sobre mí
 
-Me interesa crear soluciones útiles combinando desarrollo web, bases de datos, análisis de datos e inteligencia artificial. También tengo experiencia en soporte técnico, documentación, resolución de incidencias y trabajo en entornos profesionales.
+Soy **Rodrigo Moreno Bielsa**, desarrollador **Full Stack Junior** con formación en **Desarrollo de Aplicaciones Web**, **Sistemas Microinformáticos y Redes** y **Big Data e Inteligencia Artificial**.
+
+Me interesa crear soluciones útiles combinando **desarrollo web**, **bases de datos**, **análisis de datos**, **automatización** e **inteligencia artificial**.  
+También tengo experiencia en **soporte técnico**, **documentación**, **resolución de incidencias** y trabajo en entornos profesionales.
+
+```terminal
+STATUS: online
+MODE: learning
+OBJECTIVE: build useful tech with clean design
+LOCATION: Spain
+```
 
 ---
 
-## 👁️‍🗨️ Enfoque profesional
+## 🧠 Perfil técnico
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🌐 Desarrollo Web
-HTML, CSS, JavaScript, React, PHP, Java, Node y bases de datos SQL.
-
-</td>
-<td width="33%">
-
-### 📊 Big Data e IA
-Python, pandas, NumPy, scikit-learn, Jupyter Notebook, Power BI y Streamlit.
+### 🌐 Full Stack Web
+- HTML, CSS, JavaScript
+- React
+- PHP, Java, Node
+- SQL, MySQL
+- Diseño web visual
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🛠️ Sistemas
-Soporte técnico, redes, usuarios, permisos, documentación y resolución de incidencias.
+### 📊 Big Data & IA
+- Python
+- pandas, NumPy
+- scikit-learn
+- Jupyter Notebook
+- Streamlit, Power BI
+- Modelos de clasificación y regresión
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Sistemas & Soporte
+- Windows / Linux
+- Bash, PowerShell
+- Redes y usuarios
+- Permisos y documentación
+- Resolución de incidencias
+- Soporte técnico
 
 </td>
 </tr>
@@ -45,51 +72,60 @@ Soporte técnico, redes, usuarios, permisos, documentación y resolución de inc
 
 ---
 
-## 🧰 Stack técnico
+```terminal
+┌─[skills@terminal]─[~/stack]
+└──╼ $ ./load_stack.sh
+```
 
 <div align="center">
 
-### Lenguajes y desarrollo web
+### ⚙️ Lenguajes y herramientas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,nodejs,python,mysql,git,github,vscode,linux,bash,powershell,aws" />
 
-### Bases de datos, datos e IA
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,python,tensorflow" />
-
-### Herramientas y sistemas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell,bash,aws" />
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-7dd3fc?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Jupyter-Notebooks-7dd3fc?style=for-the-badge&logo=jupyter&logoColor=black" />
+<img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-7dd3fc?style=for-the-badge&logo=scikitlearn&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-Data%20Apps-7dd3fc?style=for-the-badge&logo=streamlit&logoColor=black" />
 
 </div>
 
 ---
 
-## 📌 Proyectos destacados
+## 🚀 Proyectos destacados
+
+```terminal
+$ ls ./featured_projects
+```
 
 ### 🚗 Calculadora de emisiones de CO₂
-Proyecto de Machine Learning aplicado a sostenibilidad.  
-Modelo de regresión para estimar emisiones de CO₂ de vehículos usando datos técnicos.
+Proyecto de **Machine Learning aplicado a sostenibilidad** para estimar emisiones de CO₂ de vehículos a partir de características técnicas.
 
-**Tecnologías:** Python, pandas, scikit-learn, Streamlit, joblib.
+**Stack:** Python · pandas · scikit-learn · Streamlit · joblib
 
 ---
 
 ### 🗄️ Aplicación web con base de datos
-Aplicación web con operaciones CRUD, conexión a MySQL y despliegue preparado para contenedores.
+Aplicación web con operaciones CRUD, conexión a base de datos y estructura preparada para despliegue en contenedores.
 
-**Tecnologías:** Flask, MySQL, Docker, HTML, CSS, Python.
+**Stack:** Flask · MySQL · Docker · HTML · CSS · Python
 
 ---
 
-### 🫆 Análisis de datos y modelos de IA
-Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de datos y modelos de clasificación/regresión.
+### 📊 Análisis de datos e IA
+Prácticas y proyectos centrados en limpieza, tratamiento, visualización de datos y entrenamiento de modelos.
 
-**Tecnologías:** Python, pandas, NumPy, scikit-learn, Jupyter Notebook, Power BI.
+**Stack:** Python · pandas · NumPy · scikit-learn · Jupyter Notebook · Power BI
 
 ---
 
 ## 🎓 Formación
+
+```terminal
+$ cat education.log
+```
 
 - **Curso de Especialización en Big Data e Inteligencia Artificial**  
   IES Maestre de Calatrava
@@ -113,15 +149,20 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RoGo117&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RoGo117&show_icons=true&theme=tokyonight&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c7eaff&bg_color=020617" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoGo117&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoGo117&layout=compact&theme=tokyonight&hide_border=true&title_color=7dd3fc&text_color=c7eaff&bg_color=020617" />
 
 </div>
 
 ---
 
-## 🤝 Contacto
+```terminal
+┌─[contact@github]─[~/links]
+└──╼ $ open professional_links
+```
+
+## 🌐 Contacto
 
 <div align="center">
 
@@ -139,8 +180,12 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 <div align="center">
 
-### Perseverando hasta cumplir
+```terminal
+SYSTEM MESSAGE:
+Thanks for visiting my profile.
+Always learning. Always building.
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0369A1,100:7DD3FC&height=120&section=footer" />
 
 </div>

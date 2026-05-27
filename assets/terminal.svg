@@ -1,0 +1,71 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal retro de Rodrigo Moreno Bielsa">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="55%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#0b1326"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.2" fill="#ffffff" opacity="0.055"/>
+      <rect y="2" width="4" height="0.8" fill="#000000" opacity="0.22"/>
+    </pattern>
+    <radialGradient id="vignette" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.10"/>
+      <stop offset="55%" stop-color="#0f172a" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+    <style>
+      .mono { font-family: "Fira Code", "JetBrains Mono", "Consolas", monospace; }
+      .blue { fill: #7dd3fc; filter: url(#glow); }
+      .muted { fill: #8ecae6; opacity: .82; }
+      .soft { fill: #c7eaff; opacity: .92; }
+      .dim { fill: #6ba6c7; opacity: .62; }
+      .label { fill: #38bdf8; opacity: .95; }
+      .cursor { fill: #7dd3fc; animation: blink .8s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .type1 { animation: t1 10s steps(42) infinite; }
+      .type2 { animation: t2 10s steps(38) infinite; }
+      .type3 { animation: t3 10s steps(52) infinite; }
+      .type4 { animation: t4 10s steps(39) infinite; }
+      @keyframes t1 { 0%, 4% { opacity:0 } 5%, 100% { opacity:1 } }
+      @keyframes t2 { 0%, 18% { opacity:0 } 19%, 100% { opacity:1 } }
+      @keyframes t3 { 0%, 35% { opacity:0 } 36%, 100% { opacity:1 } }
+      @keyframes t4 { 0%, 56% { opacity:0 } 57%, 100% { opacity:1 } }
+      .flicker { animation: flicker 7s infinite; transform-origin: 50% 50%; }
+      @keyframes flicker { 0%,100%{opacity:1} 92%{opacity:.96} 94%{opacity:.75} 95%{opacity:.98} 97%{opacity:.84} }
+      .boot { animation: boot 10s infinite; }
+      @keyframes boot { 0%{opacity:.25} 8%{opacity:1} 88%{opacity:1} 100%{opacity:.78} }
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="22" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="520" rx="22" fill="url(#scanlines)"/>
+  <rect x="0" y="0" width="1200" height="520" rx="22" fill="url(#vignette)"/>
+  <g class="flicker">
+    <rect x="28" y="28" width="1144" height="464" rx="16" fill="#020617" opacity=".68" stroke="#164e63" stroke-width="2"/>
+    <rect x="28" y="28" width="1144" height="52" rx="16" fill="#06121f"/>
+    <circle cx="62" cy="54" r="7" fill="#38bdf8" opacity=".95"/>
+    <circle cx="88" cy="54" r="7" fill="#7dd3fc" opacity=".72"/>
+    <circle cx="114" cy="54" r="7" fill="#bae6fd" opacity=".55"/>
+    <text x="150" y="60" class="mono dim" font-size="18">/home/RoGo117/profile.sh</text>
+  </g>
+  <g class="mono boot">
+    <text x="64" y="126" class="blue" font-size="22">WIRED_PROFILE v3.07 --- Initializing neural interface... Link status: STABLE</text>
+    <text x="64" y="164" class="muted" font-size="20">login: rodrigo_moreno_bielsa</text>
+    <text x="64" y="202" class="soft" font-size="20">password: ********   Authenticating...</text>
+    <text x="64" y="260" class="label type1" font-size="24">$ whoami</text>
+    <text x="220" y="260" class="soft type1" font-size="24">Rodrigo Moreno Bielsa</text>
+    <text x="64" y="306" class="label type2" font-size="24">$ role</text>
+    <text x="220" y="306" class="soft type2" font-size="24">Full Stack Junior · Big Data &amp; IA · Sistemas</text>
+    <text x="64" y="352" class="label type3" font-size="24">$ stack --main</text>
+    <text x="300" y="352" class="soft type3" font-size="24">React · Java · PHP · Node · SQL · Python · ML</text>
+    <text x="64" y="398" class="label type4" font-size="24">$ status</text>
+    <text x="220" y="398" class="soft type4" font-size="24">Learning, building and improving...</text>
+    <rect x="780" y="379" width="14" height="25" class="cursor"/>
+  </g>
+  <g opacity=".75">
+    <path d="M865 130 L1045 130 L1085 360 L825 360 Z" fill="#031525" stroke="#38bdf8" stroke-width="2" opacity=".55"/>
+    <path d="M890 160 H1025 M885 195 H1040 M878 230 H1052 M870 265 H1062 M860 300 H1070" stroke="#7dd3fc" stroke-width="2" opacity=".35"/>
+    <text x="885" y="410" class="mono dim" font-size="18">RETRO MODE: ON</text>
+  </g>
+</svg>
