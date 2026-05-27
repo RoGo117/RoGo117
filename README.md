@@ -173,7 +173,7 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 <div align="center">
 
-<img src="./assets/certifications_wired.svg" alt="Certificaciones AWS Academy de Rodrigo Moreno Bielsa" width="100%" />
+<img src="./assets/certification_wired.svg" alt="Certificaciones AWS Academy de Rodrigo Moreno Bielsa" width="100%" />
 
 </div>
 
