@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Rodrigo%20Moreno%20Bielsa&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-# 👋 Hola, soy Rodrigo Moreno Bielsa
-
 ### Desarrollador Full Stack Junior | Big Data e IA | Técnico en Sistemas
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Desarrollo+Web+Full+Stack;Big+Data+e+Inteligencia+Artificial;Bases+de+Datos+y+An%C3%A1lisis+de+Datos;Soporte+T%C3%A9cnico+y+Sistemas" />
@@ -12,17 +10,15 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🎭 Sobre mí
 
 Soy desarrollador Full Stack Junior con formación en **Desarrollo de Aplicaciones Web**, **Sistemas Microinformáticos y Redes** y **Big Data e Inteligencia Artificial**.
 
 Me interesa crear soluciones útiles combinando desarrollo web, bases de datos, análisis de datos e inteligencia artificial. También tengo experiencia en soporte técnico, documentación, resolución de incidencias y trabajo en entornos profesionales.
 
-Actualmente sigo ampliando mis conocimientos en desarrollo web, automatización, análisis de datos y Machine Learning.
-
 ---
 
-## 🚀 Enfoque profesional
+## 👁️‍🗨️ Enfoque profesional
 
 <table>
 <tr>
@@ -86,7 +82,7 @@ Aplicación web con operaciones CRUD, conexión a MySQL y despliegue preparado p
 
 ---
 
-### 📊 Análisis de datos y modelos de IA
+### 🫆 Análisis de datos y modelos de IA
 Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de datos y modelos de clasificación/regresión.
 
 **Tecnologías:** Python, pandas, NumPy, scikit-learn, Jupyter Notebook, Power BI.
@@ -143,7 +139,7 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 <div align="center">
 
-### 💡 Siempre aprendiendo, construyendo y mejorando.
+### Perseverando hasta cumplir
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
 
