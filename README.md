@@ -4,13 +4,10 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=760&lines=Desarrollo+Web+Full+Stack;Big+Data+e+Inteligencia+Artificial;Bases+de+Datos+y+An%C3%A1lisis+de+Datos;Soporte+T%C3%A9cnico+y+Sistemas;Perseverando+hasta+cumplir" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=760&lines=Desarrollo+Web+Full+Stack;Big+Data+e+Inteligencia+Artificial;Bases+de+Datos+y+An%C3%A1lisis+de+Datos;Soporte+T%C3%A9cnico+y+Sistemas;" />
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=RoGo117&label=Visitas%20al%20perfil&color=2563eb&style=flat-square" />
-<img src="https://img.shields.io/badge/Estado-Aprendiendo%20y%20construyendo-60A5FA?style=flat-square" />
-<img src="https://img.shields.io/badge/Ubicación-España-0F172A?style=flat-square" />
+<br>
 
 </div>
 
@@ -20,11 +17,11 @@
 <tr>
 <td width="58%" valign="top">
 
-## 🎭 Sobre mí
+## 🫆 Sobre mí
 
-Soy desarrollador Full Stack Junior con formación en **Desarrollo de Aplicaciones Web**, **Sistemas Microinformáticos y Redes** y **Big Data e Inteligencia Artificial**.
+Soy desarrollador Full Stack Junior con formación en **Big Data e Inteligencia Artificial**, **Desarrollo de Aplicaciones Web** y **Sistemas Microinformáticos y Redes**.
 
-Me interesa crear soluciones útiles combinando desarrollo web, bases de datos, análisis de datos e inteligencia artificial. También tengo experiencia en soporte técnico, documentación, resolución de incidencias y trabajo en entornos profesionales.
+Me interesa especialmente el diseño web, crear soluciones útiles combinando herramientas y conocimientos, el análisis de datos e inteligencia artificial, desarrollo web tanto frontend como backend, y experimentar.
 
 </td>
 <td width="42%" align="center" valign="middle">
@@ -41,7 +38,7 @@ Me interesa crear soluciones útiles combinando desarrollo web, bases de datos, 
 
 ---
 
-## 👁️‍🗨️ Enfoque profesional
+## 🎭 Enfoque profesional
 
 <table>
 <tr>
@@ -49,27 +46,48 @@ Me interesa crear soluciones útiles combinando desarrollo web, bases de datos, 
 
 ### 🌐 Desarrollo Web
 
-HTML, CSS, JavaScript, React, PHP, Java, Node y bases de datos SQL.
-
-`Frontend` `Backend` `CRUD` `MySQL`
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 Big Data e IA
-
-Python, pandas, NumPy, scikit-learn, Jupyter Notebook, Power BI y Streamlit.
-
-`Data` `Machine Learning` `Clasificación` `Regresión`
+`Frontend` `Backend` `APIs REST`  
+`HTML / CSS` `JavaScript` `React`  
+`PHP` `Java` `Node`  
+`CRUD` `Git` `SQL` `MySQL` 
 
 </td>
 <td width="33%" valign="top">
 
-### 🛠️ Sistemas
+### 🔬 Big Data e IA
 
-Soporte técnico, redes, usuarios, permisos, documentación y resolución de incidencias.
+`Análisis de datos`  
+`Machine Learning`  
+`Python` `pandas` `NumPy`  
+`scikit-learn` `Jupyter Notebook`  
+`Power BI` `Streamlit`
 
-`Windows` `Linux` `Bash` `PowerShell` `Soporte`
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### ☁️ Cloud y DevOps
+
+`AWS` `AWS Lambda`  
+`AWS CloudFormation`  
+`Microsoft Azure`  
+`Kubernetes`  
+`Automatización básica`  
+`Despliegue de aplicaciones`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Sistemas y soporte
+
+`Soporte técnico a usuarios`  
+`Resolución de incidencias`  
+`Diagnóstico de problemas técnicos`  
+`Windows` `Linux`  
+`TCP/IP` `Redes LAN`  
+`Gestión de usuarios y permisos`
 
 </td>
 </tr>
@@ -77,7 +95,7 @@ Soporte técnico, redes, usuarios, permisos, documentación y resolución de inc
 
 ---
 
-## 🧰 Stack técnico
+## 📖 Stack técnico
 
 <div align="center">
 
@@ -147,21 +165,21 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 ## 🎓 Formación
 
-- **Curso de Especialización en Big Data e Inteligencia Artificial**  
-  IES Maestre de Calatrava
+<div align="center">
 
-- **CFGS - Desarrollo de Aplicaciones Web**  
-  IES Ribera del Tajo
+<img src="./assets/education_wired.svg" alt="Formación de Rodrigo Moreno Bielsa" width="100%" />
 
-- **CFGM - Sistemas Microinformáticos y Redes**  
-  IES Ribera del Tajo
+</div>
 
 ---
 
 ## 🏅 Certificaciones
 
-- AWS Academy Graduate - Cloud Foundations
-- AWS Academy Graduate - Machine Learning Foundations
+<div align="center">
+
+<img src="./assets/certifications_wired.svg" alt="Certificaciones AWS Academy de Rodrigo Moreno Bielsa" width="100%" />
+
+</div>
 
 ---
 
@@ -205,7 +223,7 @@ Prácticas y proyectos relacionados con limpieza, tratamiento, visualización de
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Perseverando+hasta+cumplir;Siempre+aprendiendo;Siempre+construyendo;Siempre+mejorando" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=Perseverando+hasta+cumplir;...;No+paramos+ni+por+frio,+mucho+menos+por+calor;...;Wired+funcional;...;" />
 
 <br>
 
